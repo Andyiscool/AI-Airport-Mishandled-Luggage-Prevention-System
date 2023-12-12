@@ -23,3 +23,6 @@ This is the project where I used the CNN Classification Model, OCR text recognit
 18.  Pytorch, P. (2023b). Membership available. PyTorch. https://pytorch.org/
 19.  Tycomac Codes, T. C. (2021, March 15). How to import your own image data set for your deep learning project (tensorflow/pytorch) | tutorial. YouTube. https://www.youtube.com/watch?v=Y33-wDKQs94
 20.  Real Python, R. P. (2023, October 12). How to check if a python string contains a substring. https://realpython.com/python-string-contains-substring/ 
+
+
+#Copyright 2021 Jon Connell
