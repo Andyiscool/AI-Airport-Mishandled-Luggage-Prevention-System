@@ -4,7 +4,7 @@ This is the project where I used the CNN Classification Model, OCR text recognit
 # I want to credit these sources as these sources have helped me for this project:
 
 1.   MISHRA, P. (2023). Chapters 3 and 9. In Pytorch recipes: A problem-solution approach to build, train and deploy neural network models (2nd ed.). essay, APRESS.
-2    AarohiSingla, A. (2023, October 13). Image-classification-using-pytorch: Image classification on custom dataset. GitHub. https://github.com/AarohiSingla/Image-Classification-Using-Pytorch
+2.   AarohiSingla, A. (2023, October 13). Image-classification-using-pytorch: Image classification on custom dataset. GitHub. https://github.com/AarohiSingla/Image-Classification-Using-Pytorch
 3.   AI-SPECIALS, A.-S., & gaurav67890, gaurav67890. (2020, June 30). Image classification using CNN from scratch in pytorch- part 1 training. YouTube. https://www.youtube.com/watch?v=9OHlgDjaE2I
 4.   Androbomb, A. (2019, December 11). Using CNN to classify images w/pytorch. Kaggle. https://www.kaggle.com/code/androbomb/using-cnn-to-classify-images-w-pytorch/notebook
 5.   Code With Aarohii, C. W. A. (2023, October 13). Image classification using Pytorch and Convolutional Neural Network. YouTube. https://www.youtube.com/watch?v=cJpwQJp9flU
